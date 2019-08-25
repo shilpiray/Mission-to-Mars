@@ -1,3 +1,3 @@
 # Mission-to-Mars
 
-!(screen_shot0.png)
+![screen-shot]("screen_shot0.png")
