@@ -21,4 +21,4 @@ From the USGS Astrogeology site obtain high resolution images for each of Mar's 
 ### MongoDB and Flask Application
 MongoDB with Flask templating to create a new HTML page that displays all of the information that was scraped from the URLs above.
 
-![screen_shot](screen_shot0.PNG)
+![screen_shot](screen_shot0.png)
